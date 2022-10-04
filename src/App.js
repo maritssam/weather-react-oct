@@ -10,7 +10,7 @@ export default function App() {
 				<footer>
 					<p>
 						<a
-							href="https://github.com/melissaair/weather-react"
+							href="https://github.com/maritssam/weather-react-oct/blob/master/src/App.js"
 							target="_blank"
 							rel="noopener noreferrer"
 						>
