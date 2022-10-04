@@ -22,7 +22,7 @@ export default function App() {
 							target="_blank"
 							rel="noopener noreferrer"
 						>
-							Melissa Ibarra-Ramos
+							Marti Medina
 						</a>
 					</p>
 				</footer>
